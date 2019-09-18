@@ -1,0 +1,2 @@
+D:\UnityProject\Unity2017.4.3f1\WebRequestTest\App\Versions\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\UnityProject\Unity2017.4.3f1\WebRequestTest\App\Versions\WebRequestTest\WebRequestTest.csproj;x86
